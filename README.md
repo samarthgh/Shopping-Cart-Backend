@@ -51,3 +51,16 @@ The project includes a `datamodel.h` file that defines the classes used for prod
 - `Item`: Represents an item in the shopping cart. It consists of a product and a quantity. The class provides methods to calculate the item price and retrieve information about the item.
 
 - `Cart`: Represents the shopping cart and manages the collection of items. It utilizes an unordered map to store items by their product IDs. The class provides methods to add products to the cart, remove products from the cart, calculate the total price, view the cart contents, and check if the cart is empty.
+
+## Screenshots
+
+1. Adding products to the cart
+<img width="620" alt="Screenshot 2023-06-28 at 2 05 43 PM" src="https://github.com/samarthgh/Shopping-Cart-Backend/assets/94733648/9bad8429-e68e-4e13-b384-f525fb7a8e73">
+
+2. Viewing the cart
+<img width="621" alt="Screenshot 2023-06-28 at 2 06 07 PM" src="https://github.com/samarthgh/Shopping-Cart-Backend/assets/94733648/d3b4df49-a68a-4673-a4e8-aa967f612283">
+
+3.Checking out
+<img width="621" alt="Screenshot 2023-06-28 at 2 06 21 PM" src="https://github.com/samarthgh/Shopping-Cart-Backend/assets/94733648/e860ec50-21cb-44df-a992-05d3059ca409">
+
+
